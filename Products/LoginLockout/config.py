@@ -14,6 +14,6 @@ CONFIGLETS = (
         'visible'    : 1,
         'appId'      : PROJECTNAME,
         'permission' : 'ManagePortal',
-        'imageUrl'   : 'lock_icon.gif',
-    },   
-) 
+        'imageUrl'   : 'lock_icon.png',
+    },
+)
